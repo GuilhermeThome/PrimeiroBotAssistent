@@ -25,5 +25,7 @@ Node.js
 COMO USAR -     
 
 1.Clone o repositório.
+
 2.Execute npm install para instalar as dependências.
+
 4.Execute node bot.js para iniciar o bot.
