@@ -28,4 +28,6 @@ COMO USAR -
 
 2.Execute npm install para instalar as dependências.
 
+3.Configure as variáveis de ambiente no arquivo .env.
+
 4.Execute node bot.js para iniciar o bot.
