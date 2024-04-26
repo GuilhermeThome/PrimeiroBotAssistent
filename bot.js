@@ -5,7 +5,7 @@ const { PrismaClient } = require('@prisma/client');
 //comentarios gerais:
 
 // cria uma nova instância do bot Telegram
-const bot = new Telegraf("7084471057:AAE_NnBN0lz1jtGVP6cAoAGzj6Bu8rLYnUU");
+const bot = new Telegraf("Token-TelegramBot");
 // Inicializa o Prisma Client
 const prisma = new PrismaClient();
 // define o comportamento do bot ao receber uma mensagem
